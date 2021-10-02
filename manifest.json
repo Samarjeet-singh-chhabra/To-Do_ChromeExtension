@@ -1,0 +1,19 @@
+{
+    "name": "To-Do",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "browser_action":{
+        "default_popup": "todo.html",
+        "default_icon": "todo.png"
+    },
+    "icons": {
+        "128": "todo.png"
+    },
+    "background":{
+        "scripts": ["todo.js"],
+        "persistent": false
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
