@@ -7,7 +7,7 @@ Features-
   4.Now has ClearAll feature.
   5.Stores Data at Local Storage.
   
-> V0.0.1
+> V.0.0.1
   
 # [Install (Chrome)](https://www.google.com/chrome/?brand=YTUH&gclid=CjwKCAjwhuCKBhADEiwA1HegOZfWRtn1I1Bfud1ZQttRodEfU0zVfrNWNvNIA1zJuR_CuLsGh6OkfBoCDV0QAvD_BwE&gclsrc=aw.ds)
   -download zip file from github and uncompress to local.
